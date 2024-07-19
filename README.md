@@ -90,10 +90,10 @@ OPENAI_API_KEY=
 ### 5-3: Chasm çalıştırın
 ```console
 # Kodu DockerHub'dan çekin
-docker pull chasmtech/chasm-scout
+docker pull johnsonchasm/chasm-scout
 
 # Liman işçisi dosyasını başlat
-docker run -d --restart=always --env-file ./.env -p 3001:3001 --name scout chasmtech/chasm-scout
+docker run -d --restart=always --env-file ./.env -p 3001:3001 --name scout johnsonchasm/chasm-scout
 ```
 
 ### 5-4: Doğrulayın
@@ -109,7 +109,7 @@ source ./.env
 curl -X POST \
      -H "Content-Type: application/json" \
      -H "Authorization: Bearer $WEBHOOK_API_KEY" \
-     -d '{"body":"{\"model\":\"gemma2-9b-it\",\"messages\":[{\"role\":\"system\",\"content\":\"You are a helpful assistant.\"}]}"}' \
+     -d '{"body":"{\"model\":\"gemma-7b-it\",\"messages\":[{\"role\":\"system\",\"content\":\"You are a helpful assistant.\"}]}"}' \
      $WEBHOOK_URL
 ```
 
