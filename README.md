@@ -1,7 +1,7 @@
 # Chasm-Network Guide
 
-Resmi dökümana [burada](https://network-docs.chasm.net/chasm-scout-season-0/chasm-inference-scout-setup-guide) ulaşabilirsiniz.
-Discorda [buradan](https://discord.gg/gYKWwmfv) ulaşabilirsiniz.
+# Resmi dökümana [burada](https://network-docs.chasm.net/chasm-scout-season-0/chasm-inference-scout-setup-guide) ulaşabilirsiniz.
+# Discorda [buradan](https://discord.gg/gYKWwmfv) ulaşabilirsiniz.
 
 Chasm Network'te bir düğüm çalıştırıyoruz ve puan topluyoruz
 
