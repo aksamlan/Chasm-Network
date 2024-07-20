@@ -4,7 +4,7 @@ Chasm Network'te bir düğüm çalıştırıyoruz ve puan topluyoruz
 
 ## Düşük bir sistem ile rahat çalışır - Biraz da Mantle Mainnet ağında Feelik token gerekiyor. 
 
--------------- TEST CÜZDANINIZ İLE YAPINIZ ----------------
+# -------------- TEST CÜZDANINIZ İLE YAPINIZ ----------------
 
 ## Adım 1: Scout Kimliğini ve API Anahtarını Almak için NFT'yi Mintleyin
 Bakınız https://scout.chasm.net/private-mint
