@@ -3,9 +3,11 @@
 # Resmi dökümana [burada](https://network-docs.chasm.net/chasm-scout-season-0/chasm-inference-scout-setup-guide) ulaşabilirsiniz.
 # Discorda [buradan](https://discord.gg/gYKWwmfv) ulaşabilirsiniz.
 
-Chasm Network'te bir düğüm çalıştırıyoruz ve puan topluyoruz
+# Chasm Network'te bir düğüm çalıştırıyoruz ve puan topluyoruz
 
-## Düşük bir sistem ile rahat çalışır - Biraz da Mantle Mainnet ağında Feelik token gerekiyor. 
+# Düşük bir sistem ile rahat çalışır
+
+# Biraz (0.1) da Mantle Mainnet ağında Feelik token gerekiyor. 
 
 # -------------- TEST CÜZDANINIZ İLE YAPINIZ ----------------
 
