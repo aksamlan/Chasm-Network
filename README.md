@@ -127,3 +127,13 @@ docker logs scout
 
 ### Skor tablosunu kontrol edin
 https://scout.chasm.net/leaderboard
+
+
+### VERSİON GÜNCELLEMELERİ İÇİN ADIMLARI TAKİP EDİN.
+```console
+docker stop scout
+docker rm scout
+docker pull chasmtech/chasm-scout:latest
+docker run -d --restart=always --env-file ./.env -p 3001:3001 --name scout chasmtech/chasm-scout
+docker logs scout
+```
