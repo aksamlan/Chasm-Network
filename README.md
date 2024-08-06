@@ -97,10 +97,10 @@ OPENAI_API_KEY=
 ### 5-3: Chasm çalıştırın
 ```console
 # Kodu DockerHub'dan çekin
-docker pull johnsonchasm/chasm-scout
+docker pull chasmtech/chasm-scout:latest
 
 # Docker dosyasını başlat
-docker run -d --restart=always --env-file ./.env -p 3001:3001 --name scout johnsonchasm/chasm-scout
+docker run -d --restart=always --env-file ./.env -p 3001:3001 --name scout chasmtech/chasm-scout
 ```
 
 ### 5-4: Doğrulayın
